@@ -1,0 +1,11 @@
+{
+  "method": "energy_functional_graph",
+  "n_materials": 60,
+  "n_labeled": 10,
+  "bit_width": 8,
+  "qubo_size": 481,
+  "best_energy": -7856.0,
+  "rmse_vs_ref": 1.4349958411826684,
+  "rmse_vs_dft": 1.52575728391828,
+  "kappa_A": 156.57372158358885
+}

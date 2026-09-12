@@ -1,0 +1,7 @@
+{
+  "method": "kan_ls_preset",
+  "epochs": 1500,
+  "time_sec": 38.718491077423096,
+  "L2_vs_FEM": 0.8904017309634454,
+  "RMSE_internal": 0.977803157748885
+}

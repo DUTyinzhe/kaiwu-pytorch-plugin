@@ -1,0 +1,7 @@
+{
+  "method": "kan_energy_preset",
+  "epochs": 1500,
+  "time_sec": 36.189894676208496,
+  "L2_vs_FEM": 0.1755696476482863,
+  "RMSE_internal": 0.20904918512468781
+}

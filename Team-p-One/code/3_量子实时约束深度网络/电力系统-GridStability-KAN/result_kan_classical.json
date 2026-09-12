@@ -1,0 +1,7 @@
+{
+  "method": "kan_classical",
+  "epochs": 1500,
+  "time_sec": 5.150583982467651,
+  "L2_vs_FEM": 3.2570724939062793e-07,
+  "RMSE_internal": 4.3291144021609024e-07
+}

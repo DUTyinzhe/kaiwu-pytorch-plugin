@@ -1,0 +1,13 @@
+{
+  "quantum_energy_rmse": 1.52575728391828,
+  "quantum_ls_rmse": 1.7002522245266858,
+  "gnn_energy_rmse_unlabeled": 1.26754026269072,
+  "gnn_ls_rmse_unlabeled": 0.8313409575604366,
+  "gnn_baseline_rmse_unlabeled": 0.8281798073258314,
+  "n_labeled": 10,
+  "n_unlabeled": 50,
+  "epochs": 300,
+  "time_energy_sec": 2.3212404251098633,
+  "time_ls_sec": 0.46323132514953613,
+  "time_baseline_sec": 0.4446675777435303
+}

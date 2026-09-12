@@ -1,0 +1,11 @@
+{
+  "method": "energy_qubo",
+  "dataset": "HTRU2_pulsar",
+  "telescope": "Parkes_64m_radio",
+  "n_internal": 49,
+  "qubo_size": 392,
+  "bit_width": 8,
+  "kappa_K": 25.274142369088192,
+  "rmse_vs_classical": 6.289912588202486,
+  "best_energy": -14072.0
+}

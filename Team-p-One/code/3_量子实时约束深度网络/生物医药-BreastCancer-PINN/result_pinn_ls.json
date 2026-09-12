@@ -1,0 +1,8 @@
+{
+  "method": "pinn_ls_preset",
+  "epochs": 1500,
+  "time_sec": 18.646785497665405,
+  "L2_vs_FEM": 0.40571173830053325,
+  "RMSE_internal": 0.31540330477924516,
+  "final_loss": 12.222077369689941
+}

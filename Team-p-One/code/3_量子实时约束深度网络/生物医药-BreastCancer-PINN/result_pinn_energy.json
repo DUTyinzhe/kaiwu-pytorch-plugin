@@ -1,0 +1,8 @@
+{
+  "method": "pinn_energy_preset",
+  "epochs": 1500,
+  "time_sec": 17.967397212982178,
+  "L2_vs_FEM": 0.23333053476143087,
+  "RMSE_internal": 0.14172728891182557,
+  "final_loss": 2.511629104614258
+}
