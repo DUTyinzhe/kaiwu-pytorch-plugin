@@ -1,0 +1,60 @@
+{
+  "global": [
+    {
+      "nblk": "2\u00d72",
+      "grid": "11\u00d711",
+      "n_internal": "81",
+      "cond_K": 27.707146980787854,
+      "cond_K2": 767.6859938149449,
+      "qubo_vars": "648"
+    },
+    {
+      "nblk": "3\u00d73",
+      "grid": "16\u00d716",
+      "n_internal": "196",
+      "cond_K": 62.77543429297425,
+      "cond_K2": 3940.755150671164,
+      "qubo_vars": "1568"
+    },
+    {
+      "nblk": "4\u00d74",
+      "grid": "21\u00d721",
+      "n_internal": "361",
+      "cond_K": 111.87569693074308,
+      "cond_K2": 12516.17156373639,
+      "qubo_vars": "2888"
+    }
+  ],
+  "subdomain": [
+    {
+      "nblk": "2\u00d72",
+      "n_subdomains": 4,
+      "n_internal_per_sub": 16,
+      "cond_K_mean": 6.688089719291222,
+      "cond_K_std": 3.820199830714189e-15,
+      "cond_K2_mean": 44.73054409328883,
+      "cond_K2_std": 6.132934694005623e-14,
+      "qubo_vars_per_sub": 128
+    },
+    {
+      "nblk": "3\u00d73",
+      "n_subdomains": 9,
+      "n_internal_per_sub": 16,
+      "cond_K_mean": 6.68808971929122,
+      "cond_K_std": 3.72140987358465e-15,
+      "cond_K2_mean": 44.73054409328879,
+      "cond_K2_std": 5.0298753207763276e-14,
+      "qubo_vars_per_sub": 128
+    },
+    {
+      "nblk": "4\u00d74",
+      "n_subdomains": 16,
+      "n_internal_per_sub": 16,
+      "cond_K_mean": 6.688089719291218,
+      "cond_K_std": 4.818930679875312e-15,
+      "cond_K2_mean": 44.730544093288856,
+      "cond_K2_std": 7.991631803749039e-14,
+      "qubo_vars_per_sub": 128
+    }
+  ]
+}
